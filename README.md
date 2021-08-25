@@ -1,10 +1,10 @@
 # Introduction-To-Kotlin
 
-1.  Output your name and age
-    We have to print our name and age using Kotlin In-Built Function.
+## 1.  Output your name and age
+We have to print our name and age using Kotlin In-Built Function.
 
-2.	Take the same inputs from your user
-    Use readLine() method or Scanner class to take inputs from the user.
+## 2.	Take the same inputs from your user
+Use readLine() method or Scanner class to take inputs from the user.
 
 3.	Display all the taken info with additional string
     Make use of print formatting to output all the details.
